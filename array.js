@@ -6,3 +6,5 @@ let arr1 = []
 let fullName = 'francis enemuo'
 
 let arr2 = fullName.split('')
+
+arr1.pop()
